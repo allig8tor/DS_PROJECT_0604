@@ -1,3 +1,6 @@
 ###
 This is a test file for python dictionary function.
 ###
+
+
+Based on the python's dictionary function (hashtable), we could store key-value pairs in the dictionary for future reference.
